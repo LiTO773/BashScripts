@@ -1,2 +1,2 @@
-# SheelScripts
+# BashScripts
 Gucci Gang 😩🔥👌
